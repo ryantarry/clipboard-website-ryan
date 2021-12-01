@@ -1,0 +1,17 @@
+.keep-track ul {
+  min-width: 350px;
+  margin-left: 110px;
+  padding-top: 30px;
+}
+
+.keep-track img {
+  max-width: unset;
+}
+
+.icon-wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.foot-wrapper {
+  display: flex;
+}

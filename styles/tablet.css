@@ -1,0 +1,57 @@
+header h2 {
+  font-size: 2.875em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+body > header p {
+  font-size: 1.25em;
+}
+
+.keep-track header p {
+  font-size: 1.125em;
+}
+
+.keep-track .content {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.keep-track ul {
+  text-align: left;
+  min-width: 250px;
+  margin-left: 80px;
+}
+
+.keep-track img {
+  max-width: 500px;
+}
+
+.wrapper {
+  max-width: 730px;
+  margin: 0 auto;
+}
+
+.cta-btns {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.cta-btns a {
+  display: inline-block;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin: 1em 0.5em;
+}
+.icon-wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.foot-wrapper {
+  display: flex;
+}
