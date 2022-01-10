@@ -69,7 +69,7 @@ h6 {
   /* font-style: italic; */
 }
 
-h2 {
+header h2 {
   font-size: 2em;
   letter-spacing: -0.521739px;
 }
@@ -112,12 +112,12 @@ main + aside {
 
 footer {
   background: #f5f7f7;
-  padding: 52px 30px 30px;
+  padding: 30px;
 }
 
 footer h2 {
   padding-top: 55px;
-  margin: 0 0 1.25em;
+  margin: 0;
 }
 
 p {
@@ -144,12 +144,12 @@ aside {
 }
 
 nav {
-  margin: 40px 0 50px;
+  margin: 10px 0 0px;
 }
 
 nav a {
   display: block;
-  margin: 20px auto;
+  margin: 5px auto;
 }
 
 .cta-btns {
@@ -175,10 +175,6 @@ nav a {
 .cta-btns a:hover {
   color: var(--light);
   opacity: 0.8;
-}
-
-.cta-btns a.ios {
-  /*  */
 }
 
 .cta-btns a.mac {
@@ -254,4 +250,8 @@ a.instagram {
 .icon:hover {
   filter: invert(57%) sepia(47%) saturate(585%) hue-rotate(121deg)
     brightness(96%) contrast(97%);
+}
+
+.supercharge-workflow header {
+  margin: 0;
 }

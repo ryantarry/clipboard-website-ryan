@@ -48,10 +48,7 @@ body > header p {
   flex-shrink: 0;
   margin: 1em 0.5em;
 }
-.icon-wrapper {
-  display: flex;
-  flex-direction: row-reverse;
-}
+
 .foot-wrapper {
   display: flex;
 }
