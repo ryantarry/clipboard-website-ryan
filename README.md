@@ -1,2 +1,2 @@
 # clipboard-website-ryan
-hihihi
+Mock application landing page created using HTML and CSS
